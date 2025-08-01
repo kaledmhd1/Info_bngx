@@ -3,3 +3,4 @@ requests
 aiohttp
 pycryptodome
 protobuf
+gunicorn
